@@ -1,0 +1,30 @@
+_repo: A-Touch-of-Sun-and-Other-Stories_8538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foote, Mary Hallock
+    aliases:
+    - Hallock, Mary
+    - Foote, Mrs. Arthur DeWint
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '2703'
+    url: http://www.gutenberg.org/2009/agents/2703
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hallock_Foote
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A touch of sun -- The maid's progress -- Pilgrims to Mecca -- The
+  Harshaw bride.
+title: A Touch of Sun, and Other Stories
+url: http://www.gutenberg.org/ebooks/8538
