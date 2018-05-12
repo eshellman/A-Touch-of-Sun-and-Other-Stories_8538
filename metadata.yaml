@@ -1,5 +1,8 @@
 _repo: A-Touch-of-Sun-and-Other-Stories_8538
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Foote, Mary Hallock
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2703
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hallock_Foote
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8538#A-Touch-of-Sun-and-Other-Stories
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
